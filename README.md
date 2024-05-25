@@ -9,3 +9,8 @@ To run the data processing(pandas script) and generate quotes.db file(being on s
 ```bash
 python transform/main.py
 ```
+
+To run the dashboard(being on src folder):
+```bash
+streamlit run dashboard/app.py
+```
